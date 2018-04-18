@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="DynamicProgramming" Database="" Version="10.0.0">
-  <Project Name="HelloWorld" Path="HelloWorld/HelloWorld.project" Active="No"/>
   <Project Name="FibonacciTabulation" Path="FibonacciTabulation/FibonacciTabulation.project" Active="No"/>
   <Project Name="FibonacciMemoization" Path="FibonacciMemoization/FibonacciMemoization.project" Active="No"/>
-  <Project Name="LongestIncreasingSubsequence" Path="LongestIncreasingSubsequence/LongestIncreasingSubsequence.project" Active="Yes"/>
+  <Project Name="LongestIncreasingSubsequence" Path="LongestIncreasingSubsequence/LongestIncreasingSubsequence.project" Active="No"/>
+  <Project Name="LongestCommonSubsequence" Path="LongestCommonSubsequence/LongestCommonSubsequence.project" Active="No"/>
+  <Project Name="HelloWorld" Path="HelloWorld/HelloWorld.project" Active="No"/>
+  <Project Name="StringsMinimumEdit" Path="StringsMinimumEdit/StringsMinimumEdit.project" Active="No"/>
+  <Project Name="MinTwoSubSets" Path="MinTwoSubSets/MinTwoSubSets.project" Active="No"/>
+  <Project Name="CoverDistance" Path="CoverDistance/CoverDistance.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -12,6 +16,10 @@
       <Project Name="FibonacciTabulation" ConfigName="Debug"/>
       <Project Name="FibonacciMemoization" ConfigName="Debug"/>
       <Project Name="LongestIncreasingSubsequence" ConfigName="Debug"/>
+      <Project Name="LongestCommonSubsequence" ConfigName="Debug"/>
+      <Project Name="StringsMinimumEdit" ConfigName="Debug"/>
+      <Project Name="MinTwoSubSets" ConfigName="Debug"/>
+      <Project Name="CoverDistance" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -20,6 +28,10 @@
       <Project Name="FibonacciTabulation" ConfigName="Release"/>
       <Project Name="FibonacciMemoization" ConfigName="Release"/>
       <Project Name="LongestIncreasingSubsequence" ConfigName="Release"/>
+      <Project Name="LongestCommonSubsequence" ConfigName="Release"/>
+      <Project Name="StringsMinimumEdit" ConfigName="Release"/>
+      <Project Name="MinTwoSubSets" ConfigName="Release"/>
+      <Project Name="CoverDistance" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
