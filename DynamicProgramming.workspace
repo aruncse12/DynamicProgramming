@@ -7,7 +7,9 @@
   <Project Name="HelloWorld" Path="HelloWorld/HelloWorld.project" Active="No"/>
   <Project Name="StringsMinimumEdit" Path="StringsMinimumEdit/StringsMinimumEdit.project" Active="No"/>
   <Project Name="MinTwoSubSets" Path="MinTwoSubSets/MinTwoSubSets.project" Active="No"/>
-  <Project Name="CoverDistance" Path="CoverDistance/CoverDistance.project" Active="Yes"/>
+  <Project Name="CoverDistance" Path="CoverDistance/CoverDistance.project" Active="No"/>
+  <Project Name="MatrixLongestPath" Path="MatrixLongestPath/MatrixLongestPath.project" Active="No"/>
+  <Project Name="RodCutting" Path="RodCutting/RodCutting.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -20,6 +22,8 @@
       <Project Name="StringsMinimumEdit" ConfigName="Debug"/>
       <Project Name="MinTwoSubSets" ConfigName="Debug"/>
       <Project Name="CoverDistance" ConfigName="Debug"/>
+      <Project Name="MatrixLongestPath" ConfigName="Debug"/>
+      <Project Name="RodCutting" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -32,6 +36,8 @@
       <Project Name="StringsMinimumEdit" ConfigName="Release"/>
       <Project Name="MinTwoSubSets" ConfigName="Release"/>
       <Project Name="CoverDistance" ConfigName="Release"/>
+      <Project Name="MatrixLongestPath" ConfigName="Release"/>
+      <Project Name="RodCutting" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
