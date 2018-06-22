@@ -9,7 +9,8 @@
   <Project Name="MinTwoSubSets" Path="MinTwoSubSets/MinTwoSubSets.project" Active="No"/>
   <Project Name="CoverDistance" Path="CoverDistance/CoverDistance.project" Active="No"/>
   <Project Name="MatrixLongestPath" Path="MatrixLongestPath/MatrixLongestPath.project" Active="No"/>
-  <Project Name="RodCutting" Path="RodCutting/RodCutting.project" Active="Yes"/>
+  <Project Name="RodCutting" Path="RodCutting/RodCutting.project" Active="No"/>
+  <Project Name="MinimumJump" Path="MinimumJump/MinimumJump.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -24,6 +25,7 @@
       <Project Name="CoverDistance" ConfigName="Debug"/>
       <Project Name="MatrixLongestPath" ConfigName="Debug"/>
       <Project Name="RodCutting" ConfigName="Debug"/>
+      <Project Name="MinimumJump" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -38,6 +40,7 @@
       <Project Name="CoverDistance" ConfigName="Release"/>
       <Project Name="MatrixLongestPath" ConfigName="Release"/>
       <Project Name="RodCutting" ConfigName="Release"/>
+      <Project Name="MinimumJump" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
