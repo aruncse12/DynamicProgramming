@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ MinimumJump - Debug ]----------"
-	@cd "MinimumJump" && "$(MAKE)" -f  "MinimumJump.mk"
+	@echo "----------Building project:[ BoxStacking - Debug ]----------"
+	@cd "BoxStacking" && "$(MAKE)" -f  "BoxStacking.mk"
 clean:
-	@echo "----------Cleaning project:[ MinimumJump - Debug ]----------"
-	@cd "MinimumJump" && "$(MAKE)" -f  "MinimumJump.mk" clean
+	@echo "----------Cleaning project:[ BoxStacking - Debug ]----------"
+	@cd "BoxStacking" && "$(MAKE)" -f  "BoxStacking.mk" clean

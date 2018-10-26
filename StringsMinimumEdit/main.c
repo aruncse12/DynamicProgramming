@@ -19,7 +19,7 @@ int minEdit(char x[], char y[], int m, int n)
             else if (x[i-1]==y[j-1])
                 minDist[i][j]=minDist[i-1][j-1];
             else
-                minDist[i][j]=1+min(minDist[i-1][j-1],minDist[i][j-1],minDist[i-1][j]);
+                minDist[i][j]=1+min(miDsWWWWWWWWWW1DO;......./LnDist[i-1][j-1],minDist[i][j-1],minDist[i-1][j]);
         }
     }
     return minDist[m][n];
